@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.App\\BlazorApp20221221.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.App\\BlazorApp20221221.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.App\\BlazorApp20221221.App.csproj",
+        "projectName": "BlazorApp20221221.App",
+        "projectPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.App\\BlazorApp20221221.App.csproj",
+        "packagesPath": "C:\\Users\\Ahkar Toe Maw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ahkar Toe Maw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.DataAccess\\BlazorApp20221221.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.DataAccess\\BlazorApp20221221.DataAccess.csproj"
+              },
+              "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.Models\\BlazorApp20221221.Models.csproj": {
+                "projectPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.Models\\BlazorApp20221221.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.23, 3.1.23]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.DataAccess\\BlazorApp20221221.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.DataAccess\\BlazorApp20221221.DataAccess.csproj",
+        "projectName": "BlazorApp20221221.DataAccess",
+        "projectPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.DataAccess\\BlazorApp20221221.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Ahkar Toe Maw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ahkar Toe Maw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.Models\\BlazorApp20221221.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.Models\\BlazorApp20221221.Models.csproj",
+        "projectName": "BlazorApp20221221.Models",
+        "projectPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.Models\\BlazorApp20221221.Models.csproj",
+        "packagesPath": "C:\\Users\\Ahkar Toe Maw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahkar Toe Maw\\source\\repos\\BlazorApp20221221\\BlazorApp20221221.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ahkar Toe Maw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

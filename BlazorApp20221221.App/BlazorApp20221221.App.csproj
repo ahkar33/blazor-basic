@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorApp20221221.DataAccess\BlazorApp20221221.DataAccess.csproj" />
+    <ProjectReference Include="..\BlazorApp20221221.Models\BlazorApp20221221.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+﻿@page "/blog"
+<h3>Blog</h3>
+<form>
+    <div class="form-group">
+        <input type="text" class="form-control" @bind-value="@reqModel.BlogTitle">
+        <input type="text" class="form-control" @bind-value="@reqModel.BlogAuthor">
+        <input type="text" class="form-control" @bind-value="@reqModel.BlogContent">
+    </div>
+    <button type="button" class="btn btn-primary" @onclick="Save">Save</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Author</th>
+            <th scope="col">Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 0;
+            foreach (var item in lst)
+            {
+                <tr>
+                    <td>@(++count)</td>
+                    <td>@(item.BlogTitle)</td>
+                    <td>@(item.BlogAuthor)</td>
+                    <td>@(item.BlogContent)</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

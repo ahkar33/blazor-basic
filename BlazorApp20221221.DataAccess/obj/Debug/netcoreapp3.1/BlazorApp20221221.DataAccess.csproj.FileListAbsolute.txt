@@ -1,0 +1,10 @@
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\bin\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.deps.json
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\bin\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.dll
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\bin\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.pdb
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.AssemblyInfo.cs
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.dll
+C:\Users\Ahkar Toe Maw\source\repos\BlazorApp20221221\BlazorApp20221221.DataAccess\obj\Debug\netcoreapp3.1\BlazorApp20221221.DataAccess.pdb
